@@ -49,9 +49,9 @@ Here is the class link at [replit](http://replit.com) :
 > 
 > Be sure to login with your github account first then continue:
 
-https://replit.com/teams/join/nwwpztqgjgyjzklgfandtxqwxayfxihd-software-engineering-team
+https://replit.com/teams/join/vvvuygqxuypsahbbhrgdylwythzfilbf-ITP122
 
-After click on link you'll join the **ISE102** class :
+After click on link you'll join the **ITP122** class :
 
 <p align="center">
 <img src="assets/Team.png"/>
